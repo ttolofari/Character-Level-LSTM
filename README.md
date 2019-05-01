@@ -1,2 +1,2 @@
-# Dog-Breed-Classifier
+# Character-Level LSTM
 
